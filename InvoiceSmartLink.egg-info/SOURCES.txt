@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+InvoiceSmartLink.egg-info/PKG-INFO
+InvoiceSmartLink.egg-info/SOURCES.txt
+InvoiceSmartLink.egg-info/dependency_links.txt
+InvoiceSmartLink.egg-info/top_level.txt
